@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HomeApp</string>
+    <string name="get_location">Get Location</string>
+    <string name="latitude">latitude</string>
+    <string name="longtitude">longtitude</string>
+    <string name="accuracy">accuracy</string>
+    <string name="Start_Tracking">Start Tracking</string>
+    <string name="Stop_Tracking">Stop Tracking</string>
+    <string name="set_location_as_home">set location as home</string>
+    <string name="your_home_location_is_defined_as">your home location is defined as</string>
+    <string name="clear_location">Clear Location</string>
+
+</resources>
