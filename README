@@ -2,3 +2,7 @@ App to locate the user location.
 
 kamal-"I pledge the highest level of ethical principles in support of academic excellence.
 I ensure that all of my work reflects my own abilities and not those of someone else."
+
+Answer for the question:
+we can add to the pending action extras something to tell us about the noticiation messege and in the
+brodcast Reciver class we could use that extras to change the notifcation messege.
