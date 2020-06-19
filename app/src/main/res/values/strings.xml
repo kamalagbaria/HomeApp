@@ -9,5 +9,11 @@
     <string name="set_location_as_home">set location as home</string>
     <string name="your_home_location_is_defined_as">your home location is defined as</string>
     <string name="clear_location">Clear Location</string>
+    <string name="set_phone_number">Set Phone Number</string>
+    <string name="apply">apply</string>
+    <string name="type_your_phone_number">type your phone number</string>
+    <string name="Cancel2">Cancel</string>
+    <string name="test_sms">Test Sms</string>
+    <string name="delete_number">Delete number</string>
 
 </resources>
